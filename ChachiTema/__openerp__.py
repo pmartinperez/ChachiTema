@@ -6,7 +6,8 @@
 
   'data': [
   'views/layout.xml',
-  'views/pages.xml'
+  'views/pages.xml',
+  'assets.xml'
 ],
   'category': 'Theme/Creative',
   'depends': ['website', 'website_blog', 'sale'],
