@@ -5,7 +5,9 @@
   'author':'Patripon',
 
   'data': [
-  ],
+  'views/layout.xml',
+  'views/pages.xml'
+],
   'category': 'Theme/Creative',
-  'depends': ['website', 'website_less'],
+  'depends': ['website', 'website_blog', 'sale'],
 }
