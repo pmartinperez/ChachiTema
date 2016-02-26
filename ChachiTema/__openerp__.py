@@ -7,7 +7,7 @@
   'data': [
   'views/layout.xml',
   'views/pages.xml',
-  'assets.xml'
+  'views/assets.xml'
 ],
   'category': 'Theme/Creative',
   'depends': ['website', 'website_blog', 'sale'],
