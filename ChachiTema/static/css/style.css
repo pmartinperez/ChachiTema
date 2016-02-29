@@ -23,3 +23,24 @@ and open the template in the editor.
     font-size: 1.5em;
 }
 
+.snippet_testimonial {
+  border: 1px solid #EAEAEA;
+  padding: 20px;
+}
+
+// These lines will add a default style for our snippet. Now let's create our custom rules for the options.
+
+.snippet_testimonial {
+  border: 1px solid #EAEAEA;
+  padding: 20px;
+}
+  .snippet_testimonial.opt_shadow img {
+    box-shadow: 0 2px 5px rgba(51, 51, 51, 0.4);
+  }
+
+  .snippet_testimonial.opt_grey_bg {
+    border: none;
+    background-color: #EAEAEA;
+  }
+
+
